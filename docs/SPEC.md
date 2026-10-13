@@ -51,7 +51,7 @@ docs/IMPLEMENTATION_PLAN.md # Delivery plan and verification record
 
 ## Success Criteria
 
-- [ ] A public repository exists at `maderaotech/safari-messenger-ime-fix`.
+- [ ] A public repository exists at `maderaojen/safari-messenger-ime-fix`.
 - [ ] The repository contains a bilingual README with copy-free installation steps.
 - [ ] The raw `.user.js` URL is visible as an install button/link.
 - [ ] A static bilingual installation page is available under `docs/`.

@@ -25,7 +25,7 @@
 3. 允許 Userscripts 存取 `facebook.com` 和 `messenger.com`。如果 Safari 顯示「永遠允許」或「允許此網站」，請選擇允許。
 4. 點這個安裝連結：
 
-   **[安裝 Messenger Safari IME Fix](https://raw.githubusercontent.com/maderaotech/safari-messenger-ime-fix/main/messenger-ime-fix.user.js)**
+   **[安裝 Messenger Safari IME Fix](https://raw.githubusercontent.com/maderaojen/safari-messenger-ime-fix/main/messenger-ime-fix.user.js)**
 
 5. Userscripts 顯示安裝提示後，按 **Install / 安裝**。
 6. 回到 Messenger，重新整理頁面。
@@ -46,7 +46,7 @@
 
 - **沒有看到安裝提示：** 確認你開啟的是結尾為 `.user.js` 的安裝連結，並在 Safari 開過 Userscripts 延伸功能視窗。
 - **腳本沒有作用：** 確認 Userscripts 的總開關已開啟，且允許存取 Facebook / Messenger；更新或新增腳本後，重新開啟一次延伸功能視窗。
-- **仍然誤送出：** 先重新整理 Messenger；若 Facebook 改變輸入框行為，請到 [Issues](https://github.com/maderaotech/safari-messenger-ime-fix/issues) 回報 Safari 版本、裝置和頁面網址。
+- **仍然誤送出：** 先重新整理 Messenger；若 Facebook 改變輸入框行為，請到 [Issues](https://github.com/maderaojen/safari-messenger-ime-fix/issues) 回報 Safari 版本、裝置和頁面網址。
 
 ## English | Installation
 
@@ -69,7 +69,7 @@ Currently tested only on Safari for macOS. iPhone / iPad have not been tested. W
 3. Allow Userscripts to access `facebook.com` and `messenger.com`. Choose **Always Allow** or **Allow This Website** when Safari asks.
 4. Open the install link:
 
-   **[Install Messenger Safari IME Fix](https://raw.githubusercontent.com/maderaotech/safari-messenger-ime-fix/main/messenger-ime-fix.user.js)**
+   **[Install Messenger Safari IME Fix](https://raw.githubusercontent.com/maderaojen/safari-messenger-ime-fix/main/messenger-ime-fix.user.js)**
 
 5. When Userscripts shows the installation prompt, choose **Install**.
 6. Return to Messenger and reload the page.
@@ -90,7 +90,7 @@ Open the Userscripts extension in Safari, find **Messenger Safari 注音 Enter �
 
 - **No installation prompt:** Make sure you opened the URL whose path ends in `.user.js`, then open the Userscripts extension once in Safari.
 - **The script does nothing:** Make sure Userscripts injection is enabled and that Safari granted access to Facebook / Messenger. Open the extension once after adding or updating a script.
-- **Enter still sends too early:** Reload Messenger. If Facebook changed its editor behavior, report your Safari version, device, and page URL in [Issues](https://github.com/maderaotech/safari-messenger-ime-fix/issues).
+- **Enter still sends too early:** Reload Messenger. If Facebook changed its editor behavior, report your Safari version, device, and page URL in [Issues](https://github.com/maderaojen/safari-messenger-ime-fix/issues).
 
 ## Privacy
 

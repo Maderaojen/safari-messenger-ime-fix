@@ -2,7 +2,7 @@
 
 ## Overview
 
-Package the existing userscript as a public, user-facing project with clear Chinese and English installation instructions and a static installation page. Publish only the project files to `maderaotech/safari-messenger-ime-fix`.
+Package the existing userscript as a public, user-facing project with clear Chinese and English installation instructions and a static installation page. Publish only the project files to `maderaojen/safari-messenger-ime-fix`.
 
 ## Tasks
 
@@ -32,7 +32,7 @@ Package the existing userscript as a public, user-facing project with clear Chin
   - Files: `messenger-ime-fix.user.js`, `.gitignore`
 
 - [x] Task 5: Create and push the public repository with `gh`.
-  - Acceptance: `maderaotech/safari-messenger-ime-fix` is public and contains the tested project on `main`.
+  - Acceptance: `maderaojen/safari-messenger-ime-fix` is public and contains the tested project on `main`.
   - Verify: `gh repo view` and fetch the published raw script/README.
   - Files: remote repository only
 
